@@ -1,1 +1,1 @@
-#rewrite-config.ini
+# rewrite-config.ini
